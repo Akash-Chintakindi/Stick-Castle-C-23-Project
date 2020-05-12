@@ -1,2 +1,2 @@
-# Stick-Castle-C-23-Project
-I make a castle of sticks for a project
+# p5.play-boilerplate
+Boiler plate for p5.play
